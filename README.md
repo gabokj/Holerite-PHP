@@ -4,13 +4,12 @@ Este repositório contém um sistema simples de cadastro e cálculo de holerites
 
 ## ✨ Funcionalidades ##
 
-- 📌 Cadastro de múltiplos funcionários.
-- 
+- 📌 Cadastro de múltiplos funcionários
 - ⚙️ Cálculo automático de: INSS progressivo, IRRF progressivo
 - 🧾 Inclusão de benefícios: Vale Transporte (VT), Vale Refeição (VR)
-- 📄 Visualização de todos os holerites cadastrados em tabela.
-- 💾 Utiliza sessões PHP para armazenar temporariamente os dados.
-- 🖥️ Interface simples e responsiva com HTML e CSS.
+- 📄 Visualização de todos os holerites cadastrados em tabela
+- 💾 Utiliza sessões PHP para armazenar temporariamente os dados
+- 🖥️ Interface simples e responsiva com HTML e CSS
 
 ## 🚀 Tecnologias Utilizadas
 
